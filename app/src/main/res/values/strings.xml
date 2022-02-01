@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CESI - Android course</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_title">Menu</string>
+    <string name="btn_hello_activity">Hello Activity</string>
+    <string name="btn_image_activity">Image activity</string>
+</resources>
